@@ -1,0 +1,9 @@
+main: at.arena.main.Main
+version: 0.1
+name: Arena
+description: Arena with Graphical User Interface
+api-version: 1.16
+
+commands:
+    arena:
+         description: Bringt dich zur Arena Lobby
